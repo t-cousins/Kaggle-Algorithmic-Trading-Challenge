@@ -17,3 +17,5 @@ You should begin by creating the following folder structure in your S3 bucket:
 * **/testing**: errors for each individual price for each prediction are stored here for later analysis in the format *errors_modelName_predict.csv*
 
 Full setup details are included in the notebook.
+
+The notebook is best rendered in the browser using nbviewer at this [link](https://nbviewer.jupyter.org/github/t-cousins/Kaggle-Algorithmic-Trading-Challenge/blob/master/Algorithmic_Trading_Challenge.ipynb) rather than GitHub.
