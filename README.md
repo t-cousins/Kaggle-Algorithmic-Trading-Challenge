@@ -18,4 +18,4 @@ You should begin by creating the following folder structure in your S3 bucket:
 
 Full setup details are included in the notebook.
 
-The notebook is best rendered in the browser using nbviewer at this [link](https://nbviewer.jupyter.org/github/t-cousins/Kaggle-Algorithmic-Trading-Challenge/blob/master/Algorithmic_Trading_Challenge.ipynb) rather than GitHub.
+**The notebook is best rendered in the browser using nbviewer at this [link](https://nbviewer.jupyter.org/github/t-cousins/Kaggle-Algorithmic-Trading-Challenge/blob/master/Algorithmic_Trading_Challenge.ipynb) rather than GitHub.**
